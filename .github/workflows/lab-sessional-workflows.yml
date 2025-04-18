@@ -28,5 +28,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: abdulmoiz2493/i222493_SCD_A_Lab_Sessional:latest .
+          tags: abdulmoiz2493/i222493_scd_a_lab_sessional:latest .
     
